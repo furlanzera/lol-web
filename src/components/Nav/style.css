@@ -1,12 +1,14 @@
 .ul{
     display: flex;
-    flex-direction: column;
-    color:brown;
-}
-
-li{
-    color: chartreuse;
-}
-
-
+    flex-direction: row;
+    list-style: none;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    position: absolute;
+    right: 0;
     
+}
+
+li {
+    margin-left: 20px;
+}

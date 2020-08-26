@@ -9,7 +9,7 @@ function Nav() {
                 <li>CHAMPIONS</li>
                 <li>TIER LIST X</li>
                 <li>BLOG</li>
-                <li><ion-icon name="ellipsis-horizontal-sharp"></ion-icon></li>
+                <li></li>
             </ul>
         </>
     )         
